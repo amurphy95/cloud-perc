@@ -111,7 +111,7 @@ def smoothing():
 #run code
 gridSetup()
 percolate()
-smoothing()
+#smoothing()
 
 
 
